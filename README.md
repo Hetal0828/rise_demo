@@ -1,1 +1,1 @@
-# rise_demo
+printf('hello')
